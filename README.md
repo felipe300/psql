@@ -1,18 +1,19 @@
-# SQL SHELL
+# PSQL
 
 INSTRUCCIONES
-- Crear una base de datos desde el Shell de PostgreSQL.
 
-![Crear BD desde Shell](./assets/images/shell-create-db.png)
+- Crear una base de datos desde el Shell de PostgreSQL, llamada nuevo_curso. 
 
-- Crear 1 usuario desde el Shell de PostgreSQL.
+![Crear DB desde Shell](./assets/images/create-db.png)
 
-![Crear BD desde Shell](./assets/images/shell-create-db.png)
+- Crear 3 usuarios desde el Shell de PostgreSQL.
+
+![Crear usuarios desde Shell](./assets/images/create-user.png)
 
 - Listar la nueva base de datos creada desde el Shell de postgreSQL.
 
-![Crear BD desde Shell](./assets/images/shell-ingresar-db-2.png)
+![Listar BD desde Shell](./assets/images/listar-dbs.png)
 
 - Ingresar a la base de datos desde el Shell de postgreSQL.
 
-![Crear BD desde Shell](./assets/images/shell-ingresar-2.png)
+![Entrar a BD desde Shell](./assets/images/entrar-nuevo-curso.png)
